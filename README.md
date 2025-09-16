@@ -44,7 +44,7 @@
 ---
 
 ## 📫 Let’s Connect  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/affan-nadeem-801b21375/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/affan-nadeem-801b21375/)  
 - 📧 Email:affannadeem005@gmail.com  
 
 ---
