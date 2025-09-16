@@ -1,4 +1,4 @@
- 👋 Hi, I’m [Affan]  
+ 👋 Hi, I’m Affan Nadeem
 
 ## 💡 About Me  
 🔹 Data Analyst & Data Scientist passionate about turning raw data into **business insights**.  
