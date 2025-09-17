@@ -2,7 +2,8 @@
 ![Banner](banner.png)
 
 
-#👋 Hi, I'm Affan Nadeem  
+# 👋 Hi, I'm Affan Nadeem  
+
 📊 **Aspiring Data Analyst & Machine Learning Enthusiast**  
 Transforming raw data into meaningful insights using Python, Power BI, and Tableau.  
 
