@@ -1,5 +1,5 @@
 
-![Banner](banner.png)
+![Banner](AffanNadeem_20250917_210514_0000.png)
 
 
 # 👋 Hi, I'm Affan Nadeem  
