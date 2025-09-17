@@ -1,54 +1,59 @@
- 👋 Hi, I’m Affan Nadeem
 
-## 💡 About Me  
-🔹 Data Analyst & Data Scientist passionate about turning raw data into **business insights**.  
-🔹 Skilled in **Python, SQL, Power BI, Tableau, and Machine Learning**.  
-🔹 Experienced in **Exploratory Data Analysis (EDA), Predictive Modeling, and Data Visualization**.  
-🔹 Love solving real-world problems using data and building **end-to-end analytics projects**.  
+![Banner](banner.png)
 
----
 
-## 🛠️ Skills & Tools  
-
-### Languages & Libraries  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-
-### Data Visualization  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005C5C?style=for-the-badge)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-
-### Databases & Tools  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)    
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+#👋 Hi, I'm Affan Nadeem  
+📊 **Aspiring Data Analyst & Machine Learning Enthusiast**  
+Transforming raw data into meaningful insights using Python, Power BI, and Tableau.  
 
 ---
 
-## 📂 Featured Projects  
-🔹 [Netflix EDA](#) – Exploratory analysis of Netflix dataset (genres, ratings, country trends).  
-🔹 [Titanic ML Model](#) – Predicting survival using Decision Tree & Logistic Regression.  
-🔹 [Black Friday Sales Analysis](#) – Customer insights & predictive modeling on purchase data.  
-🔹 [Diabetes EDA](#) – Data cleaning, visualization, and statistical insights.  
+## 🚀 About Me  
+- Skilled in **Python (Pandas, NumPy, Scikit-learn)** for data analysis & modeling  
+- Experienced with **EDA, visualization, and predictive analytics**  
+- Hands-on with **Power BI & Tableau** for interactive dashboards  
+- Passionate about solving problems with **data-driven decision making**  
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=affan005-ai&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=affan005-ai&layout=compact&theme=tokyonight)  
+## 🎓 Education  
+**Intermediate in Computer Science**  
+(2023, 2025)  
 
 ---
 
-## 📫 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/affan-nadeem-801b21375/)  
-- 📧 Email:affannadeem005@gmail.com  
+## 🛠️ Projects  
+
+- **[Titanic Survival Prediction](https://github.com/Affan005-ai/Titanic-EDA-ML)** – EDA + ML model predicting survival with ~80% accuracy.  
+- **[Netflix Data Analysis](https://github.com/Affan005-ai/Netflix-EDA)** – Visualized top genres, ratings, and country content trends.  
+- **[Spotify Charts Analysis](https://github.com/Affan005-ai/Spotify-EDA)** – Analyzed audio features and popularity of top artists.  
+- **[Black Friday Sales Prediction](https://github.com/Affan005-ai/Black-Friday-Sales)** – Predicted purchase amounts using ML regression models.  
+- **[Power BI Retail Dashboard](https://github.com/Affan005-ai/PowerBI-Retail-Sales)** – Interactive dashboard for sales by product, region, and customers.  
 
 ---
 
-⚡ **“Transforming Data into Decisions | Analytics · Machine Learning · BI Dashboards”**
+## 🧰 Technical Skills  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
+- **Visualization Tools:** Power BI, Tableau  
+- **Databases:** MySQL (queries, joins, aggregations)  
+- **Other Tools:** Jupyter Notebook, GitHub, Excel  
+- **Machine Learning:** Regression, Classification, Data Preprocessing  
 
--->
+---
+
+## 💡 Strengths  
+✔ Strong analytical & problem-solving skills  
+✔ Hands-on with real datasets & EDA  
+✔ Quick learner with a passion for data-driven solutions  
+✔ Detail-oriented & good at presenting insights visually  
+
+---
+
+## 📬 Contact Me  
+📧 Email: **affannadeem005@gmail.com**  
+🌐 GitHub: [Affan005-ai](https://github.com/Affan005-ai)  
+💼 LinkedIn: [Affan Nadeem](https://www.linkedin.com/in/affan-nadeem-801b21375/)  
+
+---
+
+⭐️ _“Passionate about learning, growing, and delivering value through data.”_
