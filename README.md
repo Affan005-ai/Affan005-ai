@@ -1,11 +1,13 @@
 
 ![Banner](banner.png)
 
-
 # 👋 Hi, I'm Affan Nadeem  
 
-📊 **Aspiring Data Analyst & Machine Learning Enthusiast**  
-Transforming raw data into meaningful insights using Python, Power BI, and Tableau.  
+📊 **Data Analyst & Machine Learning Enthusiast**  
+Skilled in **Python, Pandas, NumPy, Power BI, Tableau, and Scikit-learn**.  
+
+🔹 I transform raw datasets into **actionable insights** through **EDA, visualization, and predictive modeling**.  
+🔹 Passionate about building **data-driven solutions** and exploring **business intelligence tools**.
 
 ---
 
