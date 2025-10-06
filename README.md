@@ -29,7 +29,7 @@ Skilled in **Python, Pandas, NumPy, Power BI, Tableau, and Scikit-learn**.
 
 - **[Titanic Survival Prediction](https://github.com/Affan005-ai/Titanic-EDA-ML)** – EDA + ML model predicting survival with ~80% accuracy.  
 - **[Netflix Data Analysis](https://github.com/Affan005-ai/Netflix-EDA)** – Visualized top genres, ratings, and country content trends.  
-- **[Spotify Charts Analysis](https://github.com/Affan005-ai/Spotify-EDA)** – Analyzed audio features and popularity of top artists.  
+- **[Online Retail Store Analysis](https://github.com/Affan005-ai/Online_retail_EDA)** – Analyzed audio features and popularity of top artists.  
 - **[Black Friday Sales Prediction](https://github.com/Affan005-ai/Black-Friday-Sales)** – Predicted purchase amounts using ML regression models.  
 - **[Power BI Retail Dashboard](https://github.com/Affan005-ai/PowerBI-Retail-Sales)** – Interactive dashboard for sales by product, region, and customers.  
 
