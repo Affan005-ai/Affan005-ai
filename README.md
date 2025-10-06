@@ -27,7 +27,7 @@ Skilled in **Python, Pandas, NumPy, Power BI, Tableau, and Scikit-learn**.
 
 ## 🛠️ Projects  
 
-- **[Online Retail Store Analysis](https://github.com/Affan005-ai/Online_retail_EDA)** – Analyzed Sales by and many other things. 
+- **[Online Retail Store Analysis](https://github.com/Affan005-ai/Online_retail_EDA)** – Analyzed Sales and many other things. 
 - **[Black Friday Sales Analysis](https://github.com/Affan005-ai/retail-analytics-black-friday)** – Predicted purchase amounts using ML regression models.
 - **[Tesla Stock Predicted](https://github.com/Affan005-ai/PTesla-Stock-Predicted)** – Predicted Tesla Using Machine Learnig  
 - **[Titanic Survival Prediction](https://github.com/Affan005-ai/Titanic-EDA-ML)** – EDA + ML model predicting survival with ~80% accuracy.  
