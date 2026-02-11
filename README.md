@@ -38,8 +38,10 @@ Skilled in **Python, Pandas, NumPy, and Scikit-learn**.
 ## 🧰 Technical Skills  
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - **Databases:** MySQL (queries, joins, aggregations)  
-- **Devops & tools:** Git, GitHub, Github actions, AWS, AZURE,  
-- **Machine Learning:** Regression, Classification, Data Preprocessing  
+- **Devops & tools:** Git, GitHub, Github Actions
+- **Deployment:** AWS, AZURE,
+- **Machine Learning:** Regression, Classification, Data Preprocessing
+- 
 
 ---
 
