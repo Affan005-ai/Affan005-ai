@@ -3,8 +3,8 @@
 
 # 👋 Hi, I'm Affan Nadeem  
 
-📊 **Data Analyst & Machine Learning Enthusiast**  
-Skilled in **Python, Pandas, NumPy, Power BI, Tableau, and Scikit-learn**.  
+📊 **Data Scientist & Machine Learning Engineer**  
+Skilled in **Python, Pandas, NumPy, and Scikit-learn**.  
 
 🔹 I transform raw datasets into **actionable insights** through **EDA, visualization, and predictive modeling**.  
 🔹 Passionate about building **data-driven solutions** and exploring **business intelligence tools**.
@@ -37,9 +37,8 @@ Skilled in **Python, Pandas, NumPy, Power BI, Tableau, and Scikit-learn**.
 
 ## 🧰 Technical Skills  
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
-- **Visualization Tools:** Power BI, Tableau  
 - **Databases:** MySQL (queries, joins, aggregations)  
-- **Other Tools:** Jupyter Notebook, GitHub, Excel  
+- **Devops & tools:** Git, GitHub, Github actions, AWS, AZURE,  
 - **Machine Learning:** Regression, Classification, Data Preprocessing  
 
 ---
