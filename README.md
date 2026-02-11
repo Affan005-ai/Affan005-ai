@@ -6,8 +6,8 @@
 📊 **Data Scientist & Machine Learning Engineer**  
 Skilled in **Python, Pandas, NumPy, and Scikit-learn**.  
 
-🔹 I transform raw datasets into **actionable insights** through **EDA, visualization, and predictive modeling**.  
-🔹 Passionate about building **data-driven solutions** and exploring **business intelligence tools**.
+🔹 I transform raw datasets into **actionable insights** through **EDA, visualization, and predictive modeling** and **Deploy** them In Various Cloud platform like **AWS, AZURE**  
+
 
 ---
 
