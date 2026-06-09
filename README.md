@@ -185,7 +185,7 @@ I build **end-to-end machine learning solutions**—from data exploration to pro
 
 ## 💼 Available For
 
-- **Freelance Projects** on Upwork (ML, Data Science, Deployment)
+- **Freelance Projects** on **[Upwork]([https://www.upwork.com/freelancers/affann7])** (ML, Data Science, Deployment)
 - **Contract Work** (part-time, full-time)
 - **Internships** (Data Science, ML Engineering)
 - **Collaboration** (open source, side projects)
