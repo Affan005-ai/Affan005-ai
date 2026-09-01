@@ -2,13 +2,13 @@
 
 # Hi, I'm Affan Nadeem
 
-Data Analyst / Junior ML Engineer building end-to-end projects — from data cleaning to deployed models.
+Data Analyst / Junior ML Engineer building end-to-end projects from data cleaning to deployed models.
 
 [LinkedIn](https://www.linkedin.com/in/affan-nadeem-801b21375/) · affannadeem005@gmail.com
 
 ## About
 
-Currently completing my intermediate studies, building hands-on ML/data projects in my own time. I focus on shipping full pipelines — data → model → deployment — rather than stopping at a notebook. Open to internships, freelance work, and entry-level roles.
+Currently completing my intermediate studies, building hands-on ML/data projects in my own time. I focus on shipping full pipelines  data → model → deployment  rather than stopping at a notebook. Open to internships, freelance work, and entry-level roles.
 
 ## Featured Projects
 
@@ -32,8 +32,11 @@ Automated ML model deployment using Docker, AWS ECR/EC2, and GitHub Actions. Cut
 
 ## Skills
 **Languages:** Python, SQL
+
 **ML:** Scikit-learn, XGBoost, Regression, Classification, Clustering, Hyperparameter Tuning
+
 **Deployment:** Docker, AWS (EC2, Elastic Beanstalk, ECR), Flask, Streamlit, GitHub Actions/CI-CD
+
 **Data & Viz:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
 
 ## Currently Learning
